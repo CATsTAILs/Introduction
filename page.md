@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to MY Pages
 
-You can use the [editor on GitHub](https://github.com/CATsTAILs/intro/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page is written as a sample for personal homepahe. You can modify this page by clicking: [editor on GitHub](https://github.com/CATsTAILs/intro/edit/master/page.md) Use it to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Bold by '###'
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
